@@ -1,0 +1,97 @@
+{
+  "people list": [
+    {
+      "pearsonid": 1,
+      "name": "Ivan",
+      "lastname": "Ivanov",
+      "address": {
+        "city": "Kiev",
+        "street": "ivanivska",
+        "house": "10",
+        "appartment": "201"
+      },
+      "phone": [
+        {
+          "tupe": "home",
+          "number": "0671111111"
+        },
+        {
+          "tupe": "work",
+          "number": "0672222222"
+        }
+      ],
+      "email": "ivan121@gmail.com",
+      "skype": "ivan5656"
+    },
+    {
+      "personid": 2,
+      "name": "Petro",
+      "lastname": "Petrov",
+      "address": {
+        "city": "Lviv",
+        "street": "lvivska",
+        "house": "12",
+        "appartment": "101"
+      },
+      "Phone": [
+        {
+          "tupe": "home",
+          "number": "0672223333"
+        },
+        {
+          "tupe": "work",
+          "number": "067442222"
+        }
+      ],
+      "email": "petro6767@gmail.com",
+      "skype": "petrofun89"
+    },
+    {
+      "personid": 3,
+      "name": "Dmytro",
+      "lastname": "Dmytrov",
+      "address": {
+        "city": "Kharkiv",
+        "street": "Kharkivska",
+        "house": "11",
+        "appartment": "105"
+      },
+      "Phone": [
+        {
+          "tupe": "home",
+          "number": "0675556633"
+        },
+        {
+          "tupe": "work",
+          "number": "067442211"
+        }
+      ],
+      "email": "dmytro13@gmail.com",
+      "skype": "dmytro233"
+    },
+{
+      "personid": 4,
+      "name": "Maxym",
+      "lastname": "Maxymov",
+      "address": {
+        "city": "Odessa",
+        "street": "Odessivska",
+        "house": "66",
+        "appartment": "325"
+      },
+      "Phone": [
+        {
+          "tupe": "home",
+          "number": "0675545633"
+        },
+        {
+          "tupe": "work",
+          "number": "0675687788"
+        }
+      ],
+      "email": "maxym45@gmail.com",
+      "skype": "maxym45"
+    }
+
+  ]
+}
