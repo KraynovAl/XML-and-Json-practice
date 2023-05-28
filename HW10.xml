@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<peoplelist>
+	<person>
+		<id>1</id>
+		<name>Ivan</name>
+		<lastname>Ivanov</lastname>
+		<address>
+			<city>Kiev</city>
+			<street>Ivanivska</street>
+			<house>10</house>
+			<appartment>251</appartment>
+		</address>
+		<workphone>0678991122</workphone>
+		<homephone>0978985566</homephone>
+		<email>ivan56@gmail.com</email>
+		<skype>ivan45</skype>
+	</person>
+	<person>
+		<id>2</id>
+		<name>Dmyto</name>
+		<lastname>Dmytrov</lastname>
+		<address>
+			<city>Lviv</city>
+			<street>lvivska</street>
+			<house>20</house>
+			<appartment>125</appartment>
+		</address>
+		<workphone>0684445566</workphone>
+		<homephone>0971112233</homephone>
+		<email>dmytro12@gmail.com</email>
+		<skype>dmytro47</skype>
+	</person>
+<person>
+		<id>3</id>
+		<name>Maxym</name>
+		<lastname>Maxymov</lastname>
+		<address>
+			<city>Kharkiv</city>
+			<street>Kharkivska</street>
+			<house>52</house>
+			<appartment>235</appartment>
+		</address>
+		<workphone>0681115566</workphone>
+		<homephone>0974457788</homephone>
+		<email>maxym45@gmail.com</email>
+		<skype>maxyn456</skype>
+	</person>
+<person>
+		<id>4</id>
+		<name>Petro</name>
+		<lastname>Petrov</lastname>
+		<address>
+			<city>Odessa</city>
+			<street>Odesska</street>
+			<house>12</house>
+			<appartment>565</appartment>
+		</address>
+		<workphone>0684561122</workphone>
+		<homephone>0973256699</homephone>
+		<email>petro678@gmail.com</email>
+		<skype>petro67</skype>
+	</person>
+</peoplelist>
